@@ -1,6 +1,9 @@
 # Meat-Me-Halfway
 I utilized a dumbbell chart to get a side-by-side look at how my KBBQ favorites stack up against my friend's ratings from our Iron Age birthday dinner: showing where our tastes align and where they definitely don’t.
 
+<img width="1080" height="1176" alt="Meat me halfway" src="https://github.com/user-attachments/assets/a992831a-2331-4215-8142-790e3601014b" />
+
+
 # Goals 
 A fun casual head-to-head on meat ratings between friends. Both of us are data majors, so it seemed like an engaging way to gauge taste preferences and make a fun data viz! 
 
