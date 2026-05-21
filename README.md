@@ -8,7 +8,7 @@ I utilized a dumbbell chart to get a side-by-side look at how my KBBQ favorites 
 A fun casual head-to-head on meat ratings between friends. Both of us are data majors, so it seemed like an engaging way to gauge taste preferences and make a fun data viz! 
 
 # Finished Project: 
-Compare your own tastes to me and my friend on Tableau Public [here] <br>
+Compare your own tastes to me and my friend on Tableau Public [here](https://public.tableau.com/app/profile/marissa.nash/viz/KBBQMeatReview/Dashboard1) <br>
 <br>
 
 **Deliverables** 
